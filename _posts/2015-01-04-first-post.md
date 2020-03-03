@@ -1,7 +1,8 @@
----
-layout: post
-title: First post!
-image: /img/hello_world.jpeg
----
-
-This is my first post, how exciting!
+<!DOCTYPE html>
+<html>
+  <body>
+    <center>
+      <h3>why do you wanna join amrita-cs star?</h3>
+      <p>this is because i can know much more about WEB DEVELOPENT and IOT and do projects based on it so that i can new skills</p>
+      
+      
