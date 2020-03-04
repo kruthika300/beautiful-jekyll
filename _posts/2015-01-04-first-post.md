@@ -3,4 +3,9 @@ layout: post
 title: First post!
 ---
 
-This is my first post, how exciting!
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>why do you wannsjoin AMRITA-CS STAR?</h1>
+  </body>
+  </html>
