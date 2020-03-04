@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <center>
-      <h3>why do you wanna join amrita-cs star?</h3>
-      <p>this is because i can know much more about WEB DEVELOPENT and IOT and do projects based on it so that i can new skills</p>
-    </center>
-  </body>
-  </html>
-      
+---
+layout: post
+titile: "why do you want to join AMRITA -CS-STAR? "
+date: 2020-03-03 03:21:35
+---
+
+beecause I am interested in web development and iot
